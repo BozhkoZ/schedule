@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <h1 class="post-title">Session Overview</h1>
+
+  <ul class="post-list">
+    {% for post in paginator.posts reversed %}
+      <li>
+        <h2>
+          <span class="post-meta">{{post.date | date: "%-d %b, %R"}}-{{post.end-date | date: "%R  "}}</span><br />
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><br />
+             <span class="post-meta">Chair: {{ post.participants }}</span><br />
+              <span class="post-meta"><small>Location: {{post.location}}</small></span>
+        </h2>
+        <hr />
+      </li>
+
+    {% endfor %}
+  </ul>
+
+{% include pagination.html %}

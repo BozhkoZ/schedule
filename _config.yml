@@ -1,0 +1,39 @@
+#Created by webjeda - http://webjeda.com
+
+# Site settings
+title: "Conf"
+title-font-size: '4em' # a provision to adjust the size of your title. If it is too long then do resize to a smaller value. By default it will be 4em.
+
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  Test the hell out of it a minimal Jekyll theme meant for writers. Long text posts will look good with this layout.
+baseurl: "/test" # the subpath of your site, e.g. /blog
+
+
+permalink: :title/
+
+# Build settings
+markdown: kramdown
+highlight: rouge
+paginate: 99
+paginate_path: /page:num/
+
+
+# Tracker
+analytics:
+
+# Comments
+disqus-shortname: webjeda-demo
+
+# Contact form
+# Go to https://getsimpleform.com and get a API token by signing up with your email and enter that here
+api-token:
+
+#CSS
+sass:
+  style: compressed
+
+
+include: [_pages]
+
+gems: [jekyll-paginate, jekyll-seo-tag]

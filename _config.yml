@@ -1,12 +1,12 @@
 #Created by webjeda - http://webjeda.com
 
 # Site settings
-title: "Conf"
+title: "ELMA 2017 - Program"
 title-font-size: '4em' # a provision to adjust the size of your title. If it is too long then do resize to a smaller value. By default it will be 4em.
 
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Test the hell out of it a minimal Jekyll theme meant for writers. Long text posts will look good with this layout.
+  post for the elma 2017 event.
 baseurl: "/test" # the subpath of your site, e.g. /blog
 
 

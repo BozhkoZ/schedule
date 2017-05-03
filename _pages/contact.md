@@ -50,11 +50,11 @@ ul.contact-ul {
 
 </style>
 
-You can send me your feedback or suggestion here. If there is something missing in the theme then you can ask me to add. 
+You can send me your feedback or suggestion here. If there is something missing in the theme then you can ask me to add.
 
 Also, if you are willing to add it yourself then feel free to open a pull request after making changes.
 
-<form id="contact-form" class="form" action="https://getsimpleform.com/messages?form_api_token={{site.api-token}}" method="POST" enctype="multipart/form-data">
+<form id="contact-form" class="form" action="https://getsimpleform.com/messages?form_api_token={{site.api-token}}" method="post" enctype="multipart/form-data">
         <ul class="contact-ul">
             <li class="contact-li">
                 <label class="contact-label" for="name">Name:</label>
@@ -68,11 +68,11 @@ Also, if you are willing to add it yourself then feel free to open a pull reques
                 <label class="contact-label" for="message">Message:</label>
                 <textarea class="contact-textarea" placeholder="Your message" class="contact-input" rows="4" id="message" name="message" tabindex="3"></textarea>
             </li>
-            
+
         </ul>
         <input type="submit" value="Send" id="submit"/>
         <input type="hidden" name='redirect_to' value="http://blog.webjeda.com/thank-you/" />
-        
+
 </form>
 
 This form is setup using [SimpleForm](https://getsimpleform.com){: target="_blank" rel="nofollow"}. You can get your own API token and update it in the **_config.yml** file.
@@ -95,5 +95,3 @@ The styles for the form is included in this page. I haven't included it in the m
 
 
 <div class="fb-page" data-href="https://www.facebook.com/webjeda/" data-small-header="true" data-adapt-container-width="false" data-hide-cover="true" data-show-facepile="true"><blockquote cite="https://www.facebook.com/webjeda/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/webjeda/">WebJeda</a></blockquote></div>
-
-

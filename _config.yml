@@ -6,8 +6,8 @@ title-font-size: '4em' # a provision to adjust the size of your title. If it is 
 
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  post for the elma 2017 event.
-baseurl: "/test" # the subpath of your site, e.g. /blog
+  Post for the elma 2017 event.
+baseurl: "/elma2017-program.com" # the subpath of your site, e.g. /blog
 
 
 permalink: :title/

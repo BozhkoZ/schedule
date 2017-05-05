@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Success
-permalink: /SUCCESS/
+permalink: /Sucecess/
 ---
 
 <h1>Thank you!</h1>

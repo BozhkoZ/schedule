@@ -51,7 +51,7 @@ ul.contact-ul {
 </style>
 
 
-<form id="contact-form" class="form" action="https://getsimpleform.com/messages?form_api_token={{site.api-token}}" method="post" enctype="multipart/form-data">
+<form id="contact-form" class="form" action="https://liveformhq.com/form/18f43aff-a54b-4b9f-9084-e075509a4e78" method="POST" enctype="multipart/form-data">
         <ul class="contact-ul">
             <li class="contact-li">
                 <label class="contact-label" for="name">Name:</label>
@@ -68,10 +68,10 @@ ul.contact-ul {
 
         </ul>
         <input type="submit" value="Send" id="submit"/>
-        <input type="hidden" name='redirect_to' value="http://localhost:4000/SUCCESS/" />
+
 
 </form>
-
+<br>
 <h2>+359 222 333 444 contact </h2>
 <h2>+359 222 333 444 contact B</h2>
 

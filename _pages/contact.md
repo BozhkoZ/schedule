@@ -72,9 +72,10 @@ ul.contact-ul {
 
 
 </form>
-<h2>Phone number:</h2>
+<p>Phone number:</p>
 <h3>+359 222 333 444 contact </h3>
 <h3>+359 222 333 444 contact B</h3>
+<br>
 
 
 <div id="fb-root"></div>

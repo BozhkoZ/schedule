@@ -2,7 +2,7 @@
 
 # Site settings
 title: "ELMA 2017 - Program"
-title-font-size: '4em' # a provision to adjust the size of your title. If it is too long then do resize to a smaller value. By default it will be 4em.
+title-font-size: '3.8em' # a provision to adjust the size of your title. If it is too long then do resize to a smaller value. By default it will be 5em.
 
 email: zhelev.z@yahoo.com
 description: > # this means to ignore newlines until "baseurl:"

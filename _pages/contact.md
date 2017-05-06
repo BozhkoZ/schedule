@@ -51,6 +51,7 @@ ul.contact-ul {
 </style>
 
 
+
 <form id="contact-form" class="form" action="https://liveformhq.com/form/18f43aff-a54b-4b9f-9084-e075509a4e78" method="POST" enctype="multipart/form-data">
         <ul class="contact-ul">
             <li class="contact-li">
@@ -71,18 +72,18 @@ ul.contact-ul {
 
 
 </form>
-<br>
-<h2>+359 222 333 444 contact </h2>
-<h2>+359 222 333 444 contact B</h2>
+<h2>Phone number:</h2>
+<h3>+359 222 333 444 contact </h3>
+<h3>+359 222 333 444 contact B</h3>
+
 
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
   if (d.getElementById(id)) return;
   js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8&appId=1409800599270506";
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8&appId=1022520091217615";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 
-
-<div class="fb-page" data-href="https://www.facebook.com/events/312900512444833/" data-small-header="true" data-adapt-container-width="false" data-hide-cover="true" data-show-facepile="true"><blockquote cite="https://www.facebook.com/events/312900512444833/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/events/312900512444833/">ELMA 2017</a></blockquote></div>
+<div class="fb-page" data-href="https://www.facebook.com/CEEC-Bulgaria-469085813232741/" data-small-header="true" data-adapt-container-width="false" data-hide-cover="true" data-show-facepile="true"><blockquote cite="https://www.facebook.com/CEEC-Bulgaria-469085813232741/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/CEEC-Bulgaria-469085813232741/">ELMA2017</a></blockquote></div>

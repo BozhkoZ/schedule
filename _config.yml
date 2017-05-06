@@ -6,8 +6,8 @@ title-font-size: '4em' # a provision to adjust the size of your title. If it is 
 
 email: zhelev.z@yahoo.com
 description: > # this means to ignore newlines until "baseurl:"
-  Schedule for the elma 2017 Sofia.
-base.url: https://bozhkoz.github.io # the subpath of your site, e.g. /blog
+  Schedule for the XV-th International Conference on Electrical Machines, Drives and Power Systems ELMA2017.
+base.url: http://bozhkoz.github.io # the subpath of your site, e.g. /blog
 url: /schedule
 
 permalink: :title/
@@ -15,7 +15,7 @@ permalink: :title/
 # Build settings
 markdown: kramdown
 highlight: rouge
-paginate: 99
+paginate: 136
 paginate_path: /page:num/
 
 

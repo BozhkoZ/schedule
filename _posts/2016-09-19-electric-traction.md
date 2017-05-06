@@ -4,7 +4,7 @@ title: Electric traction
 date: 2016-09-19 10:00:00
 end-date: '2016-09-19 2:30 PM'
 participants: 'George Todorov, Technical University of Sofia'
-location: 'Building 12, hall 12601'
+location: 'Building 12, Hall: 12601'
 ---
 
 

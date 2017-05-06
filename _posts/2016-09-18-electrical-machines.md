@@ -8,5 +8,8 @@ location: 'Building 12, hall 12235'
 ---
 
 
-10:15-10:30 **Effect of cogging torque reduction methods on PMSMs with distridubed windings**
+10:15-10:30 &nbsp; &nbsp;**Effect of cogging torque reduction methods on PMSMs with distridubed windings**
 <br>George Todorov, <u>B</u><u>ozhidar Stoev</u>, Petar Kiuchukov, George Savov
+
+10:30-10:45&nbsp; &nbsp; **Torque ripple suppression in surface mounted PMSMs with distributed windings**
+<br>George Todorov, <u>B</u><u>ozhidar Stoev</u>

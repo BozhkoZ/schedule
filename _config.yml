@@ -26,7 +26,7 @@ analytics: UA-98625202-1
 disqus-shortname: webjeda-demo
 
 # Contact form
-# Go to https://getsimpleform.com and get a API token by signing up with your email and enter that here
+# Go to http://getsimpleform.com and get a API token by signing up with your email and enter that here
 api-token: 18f43aff-a54b-4b9f-9084-e075509a4e78
 
 #CSS
@@ -37,3 +37,6 @@ sass:
 include: [_pages]
 
 gems: [jekyll-paginate, jekyll-seo-tag]
+
+# Exclude list
+exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]

@@ -86,4 +86,4 @@ ul.contact-ul {
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 
-<div class="fb-page" data-href="https://www.facebook.com/CEEC-Bulgaria-469085813232741/" data-small-header="true" data-adapt-container-width="false" data-hide-cover="true" data-show-facepile="true"><blockquote cite="https://www.facebook.com/CEEC-Bulgaria-469085813232741/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/CEEC-Bulgaria-469085813232741/">ELMA2017</a></blockquote></div>
+<div class="fb-page" data-href="http://www.facebook.com/CEEC-Bulgaria-469085813232741/" data-small-header="true" data-adapt-container-width="false" data-hide-cover="true" data-show-facepile="true"><blockquote cite="http://www.facebook.com/CEEC-Bulgaria-469085813232741/" class="fb-xfbml-parse-ignore"><a href="http://www.facebook.com/CEEC-Bulgaria-469085813232741/">ELMA2017</a></blockquote></div>

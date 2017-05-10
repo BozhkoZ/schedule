@@ -52,7 +52,7 @@ ul.contact-ul {
 
 
 
-<form id="contact-form" class="form" action="https://liveformhq.com/form/18f43aff-a54b-4b9f-9084-e075509a4e78" method="POST" enctype="multipart/form-data">
+<form id="contact-form" class="form" action="https://liveformhq.com/form/89e2cc82-2188-402d-9561-bf5ed7a71b3a" method="POST" enctype="multipart/form-data">
         <ul class="contact-ul">
             <li class="contact-li">
                 <label class="contact-label" for="name">Name:</label>
@@ -72,9 +72,9 @@ ul.contact-ul {
 
 
 </form>
-<p>Phone number:</p>
-<h3>+359 222 333 444 contact </h3>
-<h3>+359 222 333 444 contact B</h3>
+<h2>Telephone:</h2>
+<h2>+359 2 9879767</h2>
+<h2>+359 2 9652127</h2>
 <br>
 
 

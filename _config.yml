@@ -4,7 +4,7 @@
 title: "ELMA 2017 Preliminary Program"
 title-font-size: '3.4em' # a provision to adjust the size of your title. If it is too long then do resize to a smaller value. By default it will be 5em.
 
-email: zhelev.z@yahoo.com
+email: elma2017@tu-sofia.bg
 description: > # this means to ignore newlines until "baseurl:"
   Schedule for the XV-th International Conference on Electrical Machines, Drives and Power Systems ELMA2017.
 base.url: http://bozhkoz.github.io # the subpath of your site, e.g. /blog

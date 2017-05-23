@@ -22,3 +22,6 @@ location: Hall B
 
 **5. &nbsp;&nbsp; Evaluation and different control methods of the transformer noise (Literature survey)**
 <br>Vili Boteva, Hristo Tsvetkov, Yordan Botev
+
+**6. &nbsp;&nbsp; Harmonic Impact Testing on Synchronous Generator Protection**
+<br>Dimitar Bogdanov, Rosen Iliev

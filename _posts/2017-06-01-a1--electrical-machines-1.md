@@ -11,7 +11,7 @@ location: Hall A
 **1. &nbsp;&nbsp;****Design & comparison of a conventional and permanent magnet based claw-pole machine for automotive application**
 <br>Pranshu Upadhayay, Afef Kedous-Lebouc, Lauric Garbuio, Jean-Claude Mipo, Jean-Marc Dubus
 
-**2.** &nbsp;&nbsp;******Design and Comparison of Outer Rotor Bonded Magnets Halbach Motor with Different Topologies**
+**2.** &nbsp;&nbsp;**Design and Comparison of Outer Rotor Bonded Magnets Halbach Motor with Different Topologies**
 <br>Amit Kumar Jha, Afef Kedous-Lebouc, Lauric Garbuio, Jean-Paul Yonnet, Jean-Marc Dubus
 
 **3. &nbsp;&nbsp; Output Characteristics Analysis of Gensets for Modeling of an Expert System for Fault Detection Purposes**

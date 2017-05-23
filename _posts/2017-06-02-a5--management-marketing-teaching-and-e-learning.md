@@ -25,3 +25,6 @@ location: Hall A
 
 **6. &nbsp;&nbsp; Development of model for automatic tutor in e-learning environment based on student reactions extraction using facial recognition**
 <br>Salma Boumiza, Dalila Souilem, Alexander Bekiarski, Snejana Pleshkova
+
+**7. &nbsp;&nbsp; The Methodology of Risk Evaluation for Power Equipment Technical State Assessment**
+<br>Alexandra Khalyasmaa, Rustam Valiev, Viktor Bolgov

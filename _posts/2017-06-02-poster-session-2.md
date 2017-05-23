@@ -88,3 +88,6 @@ location: Lobby
 
 **27. &nbsp; Diversity in Nature and Technology – Tool for Increase the Reliability of Systems**
 <br>George Popov, Kamelia Raynova
+
+**28. &nbsp; Indoor propagation of signals between wireless sensor nodes**
+<br>Zlatan Ganev

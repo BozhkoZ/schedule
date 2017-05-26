@@ -17,8 +17,8 @@ location: Hall B
 **3. &nbsp;&nbsp; Design of a Low Permanent Magnet Mass Hybrid Excited Flux Switching Machine for a PHEV Application**
 <br>Noureddine Faltakh, Franck Vangraefsch&egrave;pe, Raouf Benlamine, Sami Hlioui, Mohamed Gabsi
 
-**4. &nbsp;&nbsp; Development of a novel coaxial magnetic gear**
-<br>Fuat Kucuk, Sadra Mousavi
+**4. &nbsp;&nbsp;****Torque Ripple Suppression in Surface Mounted PMSMs with Distributed Windings**
+<br>Bozhidar Stoev, George Todorov
 
 **5. &nbsp;&nbsp; Evaluation and different control methods of the transformer noise (Literature survey)**
 <br>Vili Boteva, Hristo Tsvetkov, Yordan Botev

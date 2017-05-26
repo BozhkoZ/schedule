@@ -3,7 +3,7 @@ layout: post
 title: A2.  POWER ELECTRONICS
 date: 2017-06-01 16:00:00
 end-date: '2017-06-01 5:30 PM'
-participants: Valentin GYUROV
+participants: Prof. Valentin GYUROV
 location: Hall A
 ---
 

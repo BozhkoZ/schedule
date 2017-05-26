@@ -20,5 +20,5 @@ location: Hall A
 **4. &nbsp;&nbsp; Effects of Cogging Torque Reduction Techniques Applied to Surface Mounted PMSMs with Distributed Windings**
 <br>George Todorov, Bozhidar Stoev, George Savov, Petar Kyuchukov
 
-**5. &nbsp;&nbsp; Torque Ripple Suppression in Surface Mounted PMSMs with Distributed Windings**
-<br>Bozhidar Stoev, George Todorov
+**5. &nbsp;&nbsp;****Development of a novel coaxial magnetic gear**
+<br>Fuat Kucuk, Sadra Mousavi

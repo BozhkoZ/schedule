@@ -85,3 +85,9 @@ location: Lobby
 
 **26. &nbsp; Combined Mobile Robots Motion Control Using Information as Voice and Gesture Commands from Audio and Thermal Visual Sensors**
 <br>Snezhana Pleshkova, Zahari Zahariev
+
+**27. &nbsp;****Investigation of the Dielectric Permittivity of Anodic Aluminum Oxide Substrates for Multi-Chip Modules**
+<br>Svetozar Andreev, Nina Spasova
+
+**28. &nbsp;**F**eatures in the selection and operation of AC motors for electric propulsion system in ships**
+<br>Lyubomir Dimitrov, Stefka Kanturska

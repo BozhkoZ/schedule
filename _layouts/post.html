@@ -3,7 +3,7 @@ layout: default
 ---
 <article class="post" itemscope itemtype="http://schema.org/Blogposting">
   <header class="post-header">
-  <small><h1>Session</h1></small>  <h2><b>{{ page.title }}</b></h2>
+  <small><h1 style="margin-top:-20px;">Session</h1></small>  <h2><b>{{ page.title }}</b></h2>
   <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: " %b %-d, %Y" }}</time><br /> {% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
   <small><p class="post-meta">Location: <b>{{ page.location }}</b></p></small>
   </header>

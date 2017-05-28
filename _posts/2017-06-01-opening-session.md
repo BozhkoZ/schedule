@@ -8,8 +8,7 @@ location: Hall A
 ---
 
 
-**10:30 –11:00 Welcome address by the Rector of the Technical
-<br>University of Sofia,
+**10:30 –11:00 Welcome address by the Rector of the Technical University of Sofia,
 <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;*Prof. G. Mihov***
 
 **&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Welcome address by the President of CEEC,

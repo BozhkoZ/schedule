@@ -8,13 +8,17 @@ location: Hall A
 ---
 
 
-| | **10:30 –11:00** | **Welcome address by the Rector of the Technical University of Sofia,****
-<br>*Prof. G. Mihov*** |
-| &nbsp; | **Welcome address by the President of CEEC,
-<br>*Prof. I. Yatchev*** |
-| &nbsp; | **Welcome address by the Chairman of the Local Organizing Committee,
-<br>*Prof. George Todorov*** |
-| &nbsp; | &nbsp; |
-| **11:00 –12:30** | **Keynote Presentation**
+**10:30 –11:00 Welcome address by the Rector of the Technical &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;University of Sofia,
+<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;*Prof. G. Mihov***
 
-**The Bulgarian Electrical Engineering Sector in the Context of the Forth Industrial Revolution *Dr. Roumen ATANASOV (BASSEL)*** | |
+**&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Welcome address by the President of CEEC,
+<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;*Prof. I. Yatchev***
+
+**&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Welcome address by the Chairman of the Local
+<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Organizing Committee,
+<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;*Prof. George Todorov***
+
+**11:00 –12:30 Keynote Presentation
+<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;The Bulgarian Electrical Engineering Sector in the
+<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Context of the Forth Industrial Revolution
+<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;*Dr. Roumen ATANASOV (BASSEL)***

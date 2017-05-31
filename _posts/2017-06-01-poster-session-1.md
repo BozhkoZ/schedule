@@ -88,6 +88,3 @@ location: Lobby
 
 **27. &nbsp;****Investigation of the Dielectric Permittivity of Anodic Aluminum Oxide Substrates for Multi-Chip Modules**
 <br>Svetozar Andreev, Nina Spasova
-
-**28. &nbsp;**F**eatures in the selection and operation of AC motors for electric propulsion system in ships**
-<br>Lyubomir Dimitrov, Stefka Kanturska

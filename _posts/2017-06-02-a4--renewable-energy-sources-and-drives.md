@@ -20,8 +20,8 @@ location: Hall A
 **4. &nbsp;&nbsp; Electrical Energy Wireless Transfert: Application to electric roads**
 <br>Mehdi Rouissiya, Ikram El Abbassi, Bilal Amghar, Alain Jaafari, Moumen Darcherif
 
-**5. &nbsp;&nbsp; Features in the selection and operation of ac motors for electric propulsion system in ships**
-<br>Lyubomir Dimitrov, Stefka Kanturska
-
-**6. &nbsp;&nbsp; Critical meteorological conditions and the electrical power balance in Bulgaria**
+**5. &nbsp;&nbsp; Critical meteorological conditions and the electrical power balance in Bulgaria**
 <br>Nelly Harizanova
+
+**6. &nbsp;&nbsp; Features in the selection and operation of ac motors for electric propulsion system in ships**
+<br>Lyubomir Dimitrov, Stefka Kanturska
